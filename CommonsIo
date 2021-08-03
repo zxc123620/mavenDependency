@@ -1,0 +1,6 @@
+
+    <dependency>
+      <groupId>org.netbeans.external</groupId>
+      <artifactId>org-apache-commons-io</artifactId>
+      <version>RELEASE113</version>
+    </dependency>
